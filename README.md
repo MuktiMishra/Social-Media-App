@@ -28,4 +28,4 @@ This repository contains two main directories:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/social-media-app.git
+   git clone https://github.com/MuktiMishra/Social-Media-App.git
